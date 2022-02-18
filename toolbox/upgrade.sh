@@ -1,5 +1,5 @@
-sudo apt update -y -qq
-sudo apt upgrade -y -qq
+sudo apt update -y
+sudo apt upgrade -y
 conda update --all -y
 brew update
 brew upgrade
