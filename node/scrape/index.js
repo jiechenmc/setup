@@ -9,7 +9,7 @@ const scrape = async (source, option) => {
 
   const writeToFile = (data, fileName) => {
     let { rank, uni, total, categoryScore } = data;
-    let string = `${rank},${uni},${total},${categoryScore}\n`;
+    let string = `${rank}\t${uni}\t${total}\t${categoryScore}\n`;
     if (fs.existsSync(fileName)) {
       fs.appendFileSync(fileName, string);
     } else {
@@ -44,7 +44,7 @@ const scrape = async (source, option) => {
       let university = text[3].trim();
       let totalScore = text[5].trim();
       let categoryScore = text[7].trim();
-      // For debugging: console.log(`${ranking},${university},${totalScore},${categoryScore}`);
+      // For debugging: console.log(`${ranking}\t${university}\t${totalScore}\t${categoryScore}`);
       writeToFile(
         {
           rank: ranking,
@@ -58,7 +58,7 @@ const scrape = async (source, option) => {
   };
 
   const processQ1 = async () => {
-    await processTable("Q1.csv");
+    await processTable("out/Q1.tsv");
     // go next page
     await page.click("#content-box > ul > li.ant-pagination-next");
   };
@@ -70,7 +70,7 @@ const scrape = async (source, option) => {
     await page.click(
       "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(2)"
     );
-    await processTable("CNCI.csv");
+    await processTable("out/CNCI.tsv");
     await page.click("#content-box > ul > li.ant-pagination-next");
   };
 
@@ -81,7 +81,7 @@ const scrape = async (source, option) => {
     await page.click(
       "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(3)"
     );
-    await processTable("IC.csv");
+    await processTable("out/IC.tsv");
     await page.click("#content-box > ul > li.ant-pagination-next");
   };
 
@@ -92,7 +92,7 @@ const scrape = async (source, option) => {
     await page.click(
       "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(4)"
     );
-    await processTable("TOP.csv");
+    await processTable("out/TOP.tsv");
     await page.click("#content-box > ul > li.ant-pagination-next");
   };
 
@@ -103,7 +103,7 @@ const scrape = async (source, option) => {
     await page.click(
       "#content-box > div.rk-table-box > table > thead > tr > th:nth-child(5) > div > div.rank-select > div.rk-tooltip > ul > li:nth-child(5)"
     );
-    await processTable("Award.csv");
+    await processTable("out/Award.tsv");
     await page.click("#content-box > ul > li.ant-pagination-next");
   };
 
