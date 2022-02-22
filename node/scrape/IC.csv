@@ -1,0 +1,500 @@
+1,Massachusetts Institute of Technology (MIT),undefined,81.8
+2,Princeton University,undefined,81.2
+3,Stanford University,undefined,80.6
+4,The University of Tokyo,undefined,74.7
+5,California Institute of Technology,undefined,84.7
+6,Harvard University,undefined,85.4
+7,University of Chicago,undefined,82.1
+8,University of California, Berkeley,undefined,83.4
+9,Paris-Saclay University,undefined,86.6
+10,PSL University,undefined,86.6
+11,University of Cambridge,undefined,87.7
+12,The University of Edinburgh,undefined,91.8
+13,University of California, Santa Barbara,undefined,78.4
+14,University of Colorado at Boulder,undefined,77.5
+15,Sorbonne University,undefined,88.3
+16,The University of Manchester,undefined,90.5
+17,University of Washington,undefined,81.2
+18,University of Geneva,undefined,93.9
+19,Cornell University,undefined,79.1
+20,University of Michigan-Ann Arbor,undefined,80.1
+21,Columbia University,undefined,83.7
+22,University of Maryland, College Park,undefined,80.1
+23,University of Illinois at Urbana-Champaign,undefined,78.0
+24,University of Oxford,undefined,89.3
+25,Université libre de Bruxelles (ULB),undefined,91.4
+26,Tsinghua University,undefined,66.0
+27,University of Paris,undefined,90.6
+28,The Australian National University,undefined,90.9
+29,University of Munich,undefined,87.7
+30,University of Science and Technology of China,undefined,62.9
+31,ETH Zurich,undefined,87.3
+31,Sapienza University of Rome,undefined,89.6
+33,Nagoya University,undefined,71.7
+34,University of California, Irvine,undefined,82.4
+35,Peking University,undefined,68.9
+36,Johns Hopkins University,undefined,82.4
+37,University of Padua,undefined,92.0
+38,Imperial College London,undefined,86.2
+39,Université Grenoble Alpes,undefined,86.2
+40,Kyoto University,undefined,70.8
+41,University of Pennsylvania,undefined,80.4
+42,Institut Polytechnique de Paris,undefined,87.5
+43,Heidelberg University,undefined,91.0
+44,University College London,undefined,88.6
+45,Uppsala University,undefined,92.0
+46,The Chinese University of Hong Kong,undefined,78.1
+47,Brown University,undefined,81.5
+48,University of Pisa,undefined,90.5
+49,The Ohio State University - Columbus,undefined,85.6
+50,University of Bologna,undefined,93.3
+51-75,Aix Marseille University,undefined,88.1
+51-75,Autonomous University of Madrid,undefined,91.6
+51-75,Claude Bernard University Lyon 1,undefined,87.4
+51-75,Moscow State University,undefined,73.8
+51-75,Northwestern University,undefined,77.3
+51-75,Radboud University Nijmegen,undefined,93.7
+51-75,Seoul National University,undefined,72.5
+51-75,Shanghai Jiao Tong University,undefined,65.7
+51-75,Swiss Federal Institute of Technology Lausanne,undefined,88.4
+51-75,The University of Glasgow,undefined,91.6
+51-75,The University of Texas at Austin,undefined,81.5
+51-75,University of Birmingham,undefined,93.3
+51-75,University of Bonn,undefined,91.5
+51-75,University of California, Los Angeles,undefined,82.8
+51-75,University of Copenhagen,undefined,94.2
+51-75,University of Genoa,undefined,93.1
+51-75,University of Hamburg,undefined,88.4
+51-75,University of Mainz,undefined,91.3
+51-75,University of Minnesota, Twin Cities,undefined,79.9
+51-75,University of Naples Federico II,undefined,91.7
+51-75,University of Roma - Tor Vergata,undefined,91.6
+51-75,University of Toronto,undefined,87.3
+51-75,University of Waterloo,undefined,80.1
+51-75,University of Wisconsin - Madison,undefined,82.4
+51-75,University of Zurich,undefined,93.0
+51-75,Yale University,undefined,86.4
+76-100,Monash University,undefined,89.1
+76-100,Nanjing University,undefined,62.9
+76-100,Pennsylvania State University - University Park,undefined,80.4
+76-100,RWTH Aachen University,undefined,83.5
+76-100,Scuola Normale Superiore - Pisa,undefined,92.0
+76-100,Stockholm University,undefined,94.6
+76-100,Tel Aviv University,undefined,86.1
+76-100,The University of Melbourne,undefined,88.3
+76-100,University of Amsterdam,undefined,93.0
+76-100,University of Barcelona,undefined,90.5
+76-100,University of Bristol,undefined,88.9
+76-100,University of British Columbia,undefined,88.9
+76-100,University of California, San Diego,undefined,79.4
+76-100,University of Florida,undefined,84.1
+76-100,University of Groningen,undefined,93.4
+76-100,University of Massachusetts Amherst,undefined,87.5
+76-100,University of Perugia,undefined,93.2
+76-100,University of Southampton,undefined,88.8
+76-100,University of Trento,undefined,92.0
+76-100,University of Turin,undefined,93.2
+76-100,University of Valencia,undefined,92.4
+76-100,University of Warsaw,undefined,87.5
+76-100,University of Warwick,undefined,90.9
+76-100,Weizmann Institute of Science,undefined,90.1
+101-150,Autonomous University of Barcelona,undefined,91.4
+101-150,Boston University,undefined,85.5
+101-150,Carnegie Mellon University,undefined,83.6
+101-150,Charles University in Prague,undefined,90.2
+101-150,Duke University,undefined,81.0
+101-150,Eotvos Lorand University,undefined,91.8
+101-150,Georgia Institute of Technology,undefined,76.7
+101-150,Indiana University Bloomington,undefined,88.6
+101-150,Karlsruhe Institute of Technology (KIT),undefined,85.6
+101-150,King's College London,undefined,87.9
+101-150,KTH Royal Institute of Technology,undefined,91.8
+101-150,Leiden University,undefined,94.3
+101-150,Lund University,undefined,91.8
+101-150,Michigan State University,undefined,83.2
+101-150,Nanyang Technological University,undefined,85.8
+101-150,National and Kapodistrian University of Athens,undefined,93.5
+101-150,National University of Singapore,undefined,83.7
+101-150,Novosibirsk State University,undefined,79.7
+101-150,Purdue University - West Lafayette,undefined,76.8
+101-150,Rice University,undefined,85.8
+101-150,Rutgers, The State University of New Jersey - New Brunswick,undefined,84.6
+101-150,Stony Brook University,undefined,84.4
+101-150,Syracuse University,undefined,88.2
+101-150,Technical University of Munich,undefined,85.7
+101-150,Texas A&M University,undefined,84.4
+101-150,The University of Adelaide,undefined,89.8
+101-150,The University of Sheffield,undefined,86.1
+101-150,TU Dresden,undefined,83.1
+101-150,University College Dublin,undefined,96.6
+101-150,University of Arizona,undefined,83.6
+101-150,University of Bern,undefined,94.3
+101-150,University of California, Davis,undefined,83.4
+101-150,University of California, Riverside,undefined,85.5
+101-150,University of California, Santa Cruz,undefined,89.2
+101-150,University of Clermont Auvergne,undefined,95.1
+101-150,University of Côte d'Azur,undefined,91.1
+101-150,University of Innsbruck,undefined,93.8
+101-150,University of Liverpool,undefined,93.4
+101-150,University of Milan,undefined,89.3
+101-150,University of Milano-Bicocca,undefined,91.5
+101-150,University of Mississippi,undefined,93.2
+101-150,University of Pittsburgh,undefined,85.0
+101-150,University of Rochester,undefined,81.7
+101-150,University of Sao Paulo,undefined,84.6
+101-150,University of Savoy,undefined,92.1
+101-150,University of Sussex,undefined,92.1
+101-150,University of Sydney,undefined,90.3
+101-150,University of Tennessee - Knoxville,undefined,83.3
+101-150,Utrecht University,undefined,83.8
+101-150,Vrije Universiteit Amsterdam,undefined,90.2
+151-200,Beihang University,undefined,63.7
+151-200,Bogazici University,undefined,94.9
+151-200,Cardiff University,undefined,89.8
+151-200,Durham University,undefined,88.3
+151-200,Federal University of Rio de Janeiro,undefined,87.6
+151-200,Florida State University,undefined,84.0
+151-200,Fudan University,undefined,62.3
+151-200,Gran Sasso Science Institute,undefined,91.1
+151-200,Humboldt University of Berlin,undefined,86.9
+151-200,International School for Advanced Studies,undefined,86.5
+151-200,Iowa State University,undefined,82.2
+151-200,Ivane Javakhishvili Tbilisi State University,undefined,97.9
+151-200,Leibniz University Hannover,undefined,78.4
+151-200,Louisiana State University - Baton Rouge,undefined,81.0
+151-200,McGill University,undefined,86.9
+151-200,Moscow Institute of Physics and Technology,undefined,76.0
+151-200,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),undefined,77.9
+151-200,National Taiwan University,undefined,74.4
+151-200,National Tsing Hua University,undefined,77.6
+151-200,New York University,undefined,83.9
+151-200,Osaka University,undefined,68.7
+151-200,Polytechnic University of Catalonia,undefined,85.4
+151-200,Queen's University,undefined,79.9
+151-200,Shandong University,undefined,63.6
+151-200,Sun Yat-sen University,undefined,66.4
+151-200,Technical University of Dortmund,undefined,90.4
+151-200,Texas Tech University,undefined,86.8
+151-200,The Hong Kong University of Science and Technology,undefined,72.5
+151-200,Tohoku University,undefined,66.3
+151-200,University of Bari,undefined,91.8
+151-200,University of Basilicata,undefined,97.9
+151-200,University of Cantabria,undefined,94.0
+151-200,University of Ferrara,undefined,92.9
+151-200,University of Goettingen,undefined,86.7
+151-200,University of Helsinki,undefined,93.9
+151-200,University of Iowa,undefined,89.6
+151-200,University of Lisbon,undefined,88.9
+151-200,University of Ljubljana,undefined,89.1
+151-200,University of Notre Dame,undefined,84.9
+151-200,University of Oregon,undefined,88.7
+151-200,University of Oslo,undefined,93.2
+151-200,University of Pavia,undefined,92.5
+151-200,University of Siena,undefined,97.0
+151-200,University of Strasbourg,undefined,91.6
+151-200,University of Trieste,undefined,94.1
+151-200,University of Urbino,undefined,97.7
+151-200,University of Virginia,undefined,84.7
+151-200,University of Wuerzburg,undefined,90.3
+151-200,Vienna University of Technology,undefined,90.4
+151-200,Wayne State University,undefined,91.7
+151-200,Zhejiang University,undefined,60.9
+201-300,Aalto University,undefined,87.9
+201-300,Aarhus University,undefined,89.9
+201-300,AGH University of Science and Technology,undefined,82.1
+201-300,Belarusian State University,undefined,95.8
+201-300,Brandeis University,undefined,92.6
+201-300,Carleton University,undefined,91.3
+201-300,Catholic University of Louvain,undefined,94.0
+201-300,Central China Normal University,undefined,83.0
+201-300,College of William and Mary,undefined,83.5
+201-300,Czech Technical University in Prague,undefined,88.0
+201-300,Georgian Technical University,undefined,98.3
+201-300,Ghent University,undefined,89.9
+201-300,Hanyang University,undefined,67.3
+201-300,Huazhong University of Science and Technology,undefined,51.4
+201-300,Istanbul Aydin University,undefined,99.5
+201-300,Istanbul Bilgi University,undefined,99.5
+201-300,King Abdulaziz University,undefined,95.8
+201-300,Korea University,undefined,68.1
+201-300,Lancaster University,undefined,91.3
+201-300,Louisiana Technical University,undefined,96.4
+201-300,McMaster University,undefined,82.2
+201-300,Nagasaki Institute of Applied Science,undefined,99.5
+201-300,Nankai University,undefined,57.2
+201-300,National Autonomous University of Mexico,undefined,80.4
+201-300,National Central University,undefined,84.2
+201-300,National Technical University of Athens,undefined,92.7
+201-300,Northeastern University (Boston),undefined,85.6
+201-300,Northern Illinois University,undefined,90.8
+201-300,Oklahoma State University,undefined,93.1
+201-300,Palacký University Olomouc,undefined,90.1
+201-300,Panjab University,undefined,85.2
+201-300,Paul Sabatier University (Toulouse 3),undefined,85.6
+201-300,Politecnico di Bari,undefined,91.1
+201-300,Pontifical Catholic University of Chile,undefined,96.1
+201-300,Queen Mary University of London,undefined,90.4
+201-300,Roma Tre University,undefined,90.5
+201-300,Royal Holloway, University of London,undefined,96.6
+201-300,Soochow University (China),undefined,58.9
+201-300,Southern Methodist University,undefined,92.8
+201-300,Sungkyunkwan University,undefined,66.8
+201-300,Swinburne University of Technology,undefined,91.0
+201-300,Technical University of Denmark,undefined,85.4
+201-300,Technion-Israel Institute of Technology,undefined,80.5
+201-300,The University of Alabama - Tuscaloosa,undefined,88.8
+201-300,The University of Auckland,undefined,92.3
+201-300,The University of Hong Kong,undefined,76.0
+201-300,The University of New Mexico - Albuquerque,undefined,83.3
+201-300,The University of Texas at Dallas,undefined,85.0
+201-300,The University of Western Australia,undefined,89.8
+201-300,Tokyo Institute of Technology,undefined,71.4
+201-300,Tufts University,undefined,87.8
+201-300,UNESP,undefined,81.2
+201-300,Universidade Federal do ABC (UFABC),undefined,92.9
+201-300,University at Buffalo, the State University of New York,undefined,84.7
+201-300,University of Alberta,undefined,86.0
+201-300,University of Antwerp,undefined,91.3
+201-300,University of Belgrade,undefined,87.2
+201-300,University of Bergen,undefined,96.4
+201-300,University of Bochum,undefined,85.2
+201-300,University of Bordeaux,undefined,84.2
+201-300,University of Campinas,undefined,83.4
+201-300,University of Canterbury,undefined,96.9
+201-300,University of Cape Town,undefined,96.1
+201-300,University of Catania,undefined,90.6
+201-300,University of Cincinnati,undefined,87.3
+201-300,University of Cologne,undefined,89.8
+201-300,University of Eastern Piedmont,undefined,97.3
+201-300,University of Erlangen-Nuremberg,undefined,82.0
+201-300,University of Florence,undefined,86.6
+201-300,University of Freiburg,undefined,85.1
+201-300,University of Giessen,undefined,90.5
+201-300,University of Granada,undefined,90.7
+201-300,University of Kansas,undefined,90.3
+201-300,University of La Laguna,undefined,95.1
+201-300,University of Malaya,undefined,86.0
+201-300,University of Montreal,undefined,88.7
+201-300,University of Nebraska - Lincoln,undefined,85.6
+201-300,University of Nottingham,undefined,83.6
+201-300,University of Oviedo,undefined,94.2
+201-300,University of Portsmouth,undefined,94.0
+201-300,University of Rennes 1,undefined,82.1
+201-300,University of Salerno,undefined,84.0
+201-300,University of Santiago Compostela,undefined,92.4
+201-300,University of Siegen,undefined,93.2
+201-300,University of Split,undefined,98.7
+201-300,University of St Andrews,undefined,91.0
+201-300,University of Strathclyde,undefined,87.0
+201-300,University of the Balearic Islands,undefined,86.3
+201-300,University of the Basque Country,undefined,88.9
+201-300,University of the Witwatersrand,undefined,92.7
+201-300,University of Tsukuba,undefined,74.4
+201-300,University of Udine,undefined,94.6
+201-300,University of Victoria,undefined,94.8
+201-300,University of Wisconsin-Milwaukee,undefined,86.9
+201-300,University of Wuppertal,undefined,93.9
+201-300,Vanderbilt University,undefined,86.4
+201-300,Vrije Universiteit Brussel (VUB),undefined,93.5
+201-300,West Virginia University,undefined,80.5
+201-300,Wuhan University,undefined,60.5
+301-400,Adiyaman University,undefined,96.8
+301-400,Ankara University,undefined,89.0
+301-400,Baylor University,undefined,92.4
+301-400,Benemerita Universidad Autonoma de Puebla,undefined,83.7
+301-400,Brandenburg University of Technology,undefined,93.5
+301-400,British University in Egypt,undefined,93.9
+301-400,Brunel University,undefined,93.5
+301-400,Cag University,undefined,100.0
+301-400,California State University Fresno,undefined,97.0
+301-400,Chalmers University of Technology,undefined,90.3
+301-400,Colorado State University,undefined,73.8
+301-400,Comenius University in Bratislava,undefined,95.5
+301-400,Complutense University of Madrid,undefined,86.6
+301-400,Cukurova University,undefined,91.8
+301-400,Delft University of Technology,undefined,81.7
+301-400,Drexel University,undefined,78.1
+301-400,Ecole Normale Superieure - Lyon,undefined,86.8
+301-400,Florida Institute of Technology,undefined,92.2
+301-400,Florida International University,undefined,90.7
+301-400,Gaziantep University,undefined,94.2
+301-400,Gaziosmanpasa University,undefined,95.1
+301-400,Goethe University Frankfurt,undefined,88.6
+301-400,Guglielmo Marconi University,undefined,99.1
+301-400,Hampton University,undefined,94.0
+301-400,Hiroshima Institute of Technology,undefined,97.8
+301-400,Hunan University,undefined,57.2
+301-400,Ilia State University,undefined,97.0
+301-400,Indian Institute of Science Education & Research (IISER) - Kolkata,undefined,62.3
+301-400,Indian Institute of Science Education & Research (IISER) - Pune,undefined,84.9
+301-400,Indian Institute of Technology Hyderabad,undefined,74.3
+301-400,Indian Institute of Technology Madras,undefined,69.8
+301-400,Izmir Institute of Technology,undefined,90.1
+301-400,Jagiellonian University,undefined,85.2
+301-400,Kafkas University,undefined,97.7
+301-400,Kansas State University,undefined,87.8
+301-400,King Abdullah University of Science and Technology,undefined,84.8
+301-400,KU Leuven,undefined,88.3
+301-400,Kyoto University of Education,undefined,99.8
+301-400,Kyungpook National University,undefined,77.5
+301-400,Lappeenranta University of Technology,undefined,97.7
+301-400,Liverpool John Moores University,undefined,97.8
+301-400,Manhattan College,undefined,98.6
+301-400,Mimar Sinan Guzel Sanatlar University,undefined,98.4
+301-400,Montana State University - Bozeman,undefined,74.5
+301-400,Ohio University,undefined,87.1
+301-400,Okayama University,undefined,81.6
+301-400,Parthenope University Naples,undefined,97.7
+301-400,Peter the Great St. Petersburg Polytechnic University,undefined,80.9
+301-400,Piri Reis University,undefined,98.9
+301-400,Pusan National University,undefined,66.4
+301-400,Quaid-i-Azam University,undefined,84.8
+301-400,Rio de Janeiro State University,undefined,82.8
+301-400,Rochester Institute of Technology,undefined,77.5
+301-400,Simon Fraser University,undefined,91.2
+301-400,Sofia University,undefined,93.6
+301-400,Technical University Darmstadt,undefined,81.3
+301-400,Texas A and M University at Qatar,undefined,99.0
+301-400,The Hebrew University of Jerusalem,undefined,81.8
+301-400,The University of New South Wales,undefined,84.9
+301-400,The University of Texas at Arlington,undefined,89.1
+301-400,TOBB Ekonomi ve Teknoloji University,undefined,95.4
+301-400,Tokyo Metropolitan University,undefined,84.7
+301-400,Universidad Antonio Narino,undefined,99.0
+301-400,Universidad Tecnica Federico Santa Maria,undefined,95.4
+301-400,Universidade Federal de Sao Joao del-Rei,undefined,91.4
+301-400,Universite de Haute Alsace,undefined,95.5
+301-400,Universite Mohammed Premier,undefined,98.2
+301-400,University at Albany (State University of New York),undefined,89.6
+301-400,University of Basel,undefined,89.8
+301-400,University of Buenos Aires,undefined,86.2
+301-400,University of Cagliari,undefined,92.6
+301-400,University of Calabria,undefined,91.0
+301-400,University of Camerino,undefined,86.2
+301-400,University of Coimbra,undefined,91.5
+301-400,University of Cyprus,undefined,96.6
+301-400,University of Debrecen,undefined,93.0
+301-400,University of Fribourg,undefined,96.1
+301-400,University of Illinois at Chicago,undefined,83.1
+301-400,University of Ioannina,undefined,92.2
+301-400,University of Johannesburg,undefined,94.3
+301-400,University of Los Andes (Colombia),undefined,96.2
+301-400,University of Louisville,undefined,91.6
+301-400,University of Mons,undefined,93.2
+301-400,University of Montpellier,undefined,82.9
+301-400,University of Muenster,undefined,84.6
+301-400,University of Oklahoma - Norman,undefined,85.3
+301-400,University of Parma,undefined,84.2
+301-400,University of Puerto Rico Mayaguez,undefined,96.4
+301-400,University of Rostock,undefined,84.8
+301-400,University of Salento,undefined,87.0
+301-400,University of South Carolina - Columbia,undefined,87.0
+301-400,University of Szeged,undefined,81.9
+301-400,University of Texas Rio Grande Valley,undefined,85.3
+301-400,University of Tuebingen,undefined,89.5
+301-400,University of Vienna,undefined,89.2
+301-400,Utah Valley University,undefined,99.1
+301-400,Warsaw University of Technology,undefined,82.9
+301-400,Washington State University,undefined,67.9
+301-400,West University of Timisoara,undefined,92.2
+301-400,York University,undefined,92.9
+401-500,Aristotle University of Thessaloniki,undefined,89.8
+401-500,Arizona State University,undefined,76.4
+401-500,Bahcesehir University,undefined,94.8
+401-500,California State University-Sacramento,undefined,98.2
+401-500,Case Western Reserve University,undefined,76.1
+401-500,Chonnam National University,undefined,77.7
+401-500,Chulalongkorn University,undefined,90.3
+401-500,Creighton University,undefined,96.8
+401-500,Eindhoven University of Technology,undefined,79.1
+401-500,Erzincan University,undefined,92.8
+401-500,Fayoum University,undefined,95.5
+401-500,Federal University of Rio Grande do Norte,undefined,76.4
+401-500,Federal University of Rio Grande do Sul,undefined,83.6
+401-500,Free University Berlin,undefined,79.3
+401-500,Hassan II University of Casablanca,undefined,92.0
+401-500,Hiroshima University,undefined,77.3
+401-500,IMT Atlantique,undefined,91.1
+401-500,Indian Institute of Science,undefined,64.2
+401-500,Indian Institute of Technology Bombay,undefined,65.5
+401-500,Indian Institute of Technology Gandhinagar,undefined,68.8
+401-500,International Islamic University Malaysia,undefined,95.1
+401-500,Isfahan University of Technology,undefined,77.4
+401-500,Islamic Azad University,undefined,55.1
+401-500,Istanbul Technical University,undefined,81.2
+401-500,Jilin University,undefined,48.1
+401-500,Kobe University,undefined,78.8
+401-500,Korea Advanced Institute of Science and Technology,undefined,61.2
+401-500,Kyushu University,undefined,70.8
+401-500,Lanzhou University,undefined,56.8
+401-500,Marmara University,undefined,89.2
+401-500,Mersin University,undefined,90.3
+401-500,Middle East Technical University,undefined,80.5
+401-500,Mohammed V University,undefined,81.9
+401-500,National University of La Plata,undefined,88.1
+401-500,New Mexico State University,undefined,87.2
+401-500,North Carolina State University - Raleigh,undefined,69.6
+401-500,NOVA University Lisbon,undefined,92.0
+401-500,Ochanomizu University,undefined,88.6
+401-500,Ozyegin University,undefined,95.8
+401-500,Pohang University of Science and Technology,undefined,65.4
+401-500,Polytechnic University of Milan,undefined,77.9
+401-500,Queen's University Belfast,undefined,93.1
+401-500,Riga Technical University,undefined,96.5
+401-500,Rockefeller University,undefined,96.2
+401-500,Sejong University,undefined,77.4
+401-500,Shanxi University,undefined,53.5
+401-500,Shenzhen University,undefined,56.8
+401-500,Shinshu University,undefined,85.8
+401-500,Southeast University,undefined,51.1
+401-500,Southern University of Science and Technology,undefined,67.5
+401-500,Technical University of Berlin,undefined,77.1
+401-500,Temple University,undefined,79.3
+401-500,The Catholic University of America,undefined,87.0
+401-500,The City College of New York,undefined,78.4
+401-500,The George Washington University,undefined,78.3
+401-500,The Graduate University for Advanced Studies,undefined,80.1
+401-500,The University of Queensland,undefined,81.7
+401-500,Tomsk State University,undefined,75.9
+401-500,Transilvania University of Brasov,undefined,92.9
+401-500,Ulsan National Institute of Science and Technology,undefined,66.9
+401-500,Universidad Autonoma de San Luis Potosi,undefined,86.4
+401-500,Universidade Federal de Juiz de Fora,undefined,90.2
+401-500,Universidade Federal do Triangulo Mineiro,undefined,96.2
+401-500,Universitat Ramon Llull,undefined,94.2
+401-500,University of Alabama in Huntsville,undefined,74.3
+401-500,University of Bath,undefined,84.8
+401-500,University of Bialystok,undefined,85.1
+401-500,University of Chile,undefined,90.8
+401-500,University of Delaware,undefined,77.2
+401-500,University of Delhi,undefined,69.9
+401-500,University of Houston,undefined,82.2
+401-500,University of Jena,undefined,76.5
+401-500,University of Jyvaskyla,undefined,90.8
+401-500,University of Kentucky,undefined,85.3
+401-500,University of KwaZulu-Natal,undefined,86.3
+401-500,University of Leicester,undefined,91.6
+401-500,University of Liege,undefined,92.4
+401-500,University of Marrakech Cadi Ayyad,undefined,91.1
+401-500,University of Minho,undefined,91.0
+401-500,University of Modena and Reggio Emilia,undefined,88.5
+401-500,University of Nantes,undefined,86.9
+401-500,University of North Carolina at Chapel Hill,undefined,74.7
+401-500,University of Porto,undefined,87.9
+401-500,University of Regensburg,undefined,80.1
+401-500,University of Seoul,undefined,80.2
+401-500,University of Southern California,undefined,69.7
+401-500,University of Stuttgart,undefined,72.1
+401-500,University of Ulm,undefined,81.4
+401-500,University of Utah,undefined,74.1
+401-500,University of York,undefined,89.4
+401-500,University of Zagreb,undefined,91.9
+401-500,University of Zielona Gora,undefined,87.4
+401-500,Vilnius University,undefined,87.5
+401-500,Virginia Polytechnic Institute and State University,undefined,74.6
+401-500,Visva Bharati University,undefined,83.2
+401-500,Waseda University,undefined,74.5
+401-500,Washington University in St. Louis,undefined,70.1
+401-500,Xi'an Jiaotong University,undefined,54.1
+401-500,Yonsei University,undefined,63.6
+401-500,Zhengzhou University,undefined,58.9
