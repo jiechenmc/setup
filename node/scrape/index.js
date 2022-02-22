@@ -1,6 +1,7 @@
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const path = require("path");
 
 const scrape = async (source, option) => {
   const browser = await puppeteer.launch({ headless: false });
@@ -8,8 +9,9 @@ const scrape = async (source, option) => {
   await page.goto(source);
 
   const writeToFile = (data, fileName) => {
-    let { rank, uni, total, categoryScore } = data;
-    let string = `${rank}\t${uni}\t${total}\t${categoryScore}\n`;
+    let { rank, uni, totalScore, categoryScore } = data;
+    let string = `${rank}\t${uni}\t${totalScore}\t${categoryScore}\n`;
+    //console.log(total);
     if (fs.existsSync(fileName)) {
       fs.appendFileSync(fileName, string);
     } else {
@@ -44,6 +46,7 @@ const scrape = async (source, option) => {
       let university = text[3].trim();
       let totalScore = text[5].trim();
       let categoryScore = text[7].trim();
+      //console.log(totalScore);
       // For debugging: console.log(`${ranking}\t${university}\t${totalScore}\t${categoryScore}`);
       writeToFile(
         {
