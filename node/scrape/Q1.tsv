@@ -1,0 +1,500 @@
+1	Massachusetts Institute of Technology (MIT)	undefined	90.4
+2	Princeton University	undefined	74.6
+3	Stanford University	undefined	82.1
+4	The University of Tokyo	undefined	94.2
+5	California Institute of Technology	undefined	88.1
+6	Harvard University	undefined	95.8
+7	University of Chicago	undefined	82.1
+8	University of California, Berkeley	undefined	88.2
+9	Paris-Saclay University	undefined	91.6
+10	PSL University	undefined	80.1
+11	University of Cambridge	undefined	91.0
+12	The University of Edinburgh	undefined	63.5
+13	University of California, Santa Barbara	undefined	60.5
+14	University of Colorado at Boulder	undefined	58.7
+15	Sorbonne University	undefined	100.0
+16	The University of Manchester	undefined	60.7
+17	University of Washington	undefined	57.0
+18	University of Geneva	undefined	61.9
+19	Cornell University	undefined	54.8
+20	University of Michigan-Ann Arbor	undefined	71.3
+21	Columbia University	undefined	59.2
+22	University of Maryland, College Park	undefined	73.2
+23	University of Illinois at Urbana-Champaign	undefined	61.2
+24	University of Oxford	undefined	81.3
+25	Université libre de Bruxelles (ULB)	undefined	44.3
+26	Tsinghua University	undefined	85.6
+27	University of Paris	undefined	76.8
+28	The Australian National University	undefined	58.2
+29	University of Munich	undefined	61.7
+30	University of Science and Technology of China	undefined	84.1
+31	ETH Zurich	undefined	71.6
+31	Sapienza University of Rome	undefined	65.2
+33	Nagoya University	undefined	53.0
+34	University of California, Irvine	undefined	49.0
+35	Peking University	undefined	83.8
+36	Johns Hopkins University	undefined	60.7
+37	University of Padua	undefined	65.8
+38	Imperial College London	undefined	70.5
+39	Université Grenoble Alpes	undefined	71.2
+40	Kyoto University	undefined	65.6
+41	University of Pennsylvania	undefined	48.6
+42	Institut Polytechnique de Paris	undefined	51.1
+43	Heidelberg University	undefined	65.2
+44	University College London	undefined	72.4
+45	Uppsala University	undefined	54.9
+46	The Chinese University of Hong Kong	undefined	42.6
+47	Brown University	undefined	39.3
+48	University of Pisa	undefined	51.5
+49	The Ohio State University - Columbus	undefined	62.9
+50	University of Bologna	undefined	60.4
+51-75	Aix Marseille University	undefined	66.3
+51-75	Autonomous University of Madrid	undefined	58.1
+51-75	Claude Bernard University Lyon 1	undefined	51.9
+51-75	Moscow State University	undefined	64.9
+51-75	Northwestern University	undefined	56.4
+51-75	Radboud University Nijmegen	undefined	48.2
+51-75	Seoul National University	undefined	63.0
+51-75	Shanghai Jiao Tong University	undefined	68.6
+51-75	Swiss Federal Institute of Technology Lausanne	undefined	60.7
+51-75	The University of Glasgow	undefined	47.3
+51-75	The University of Texas at Austin	undefined	66.0
+51-75	University of Birmingham	undefined	49.3
+51-75	University of Bonn	undefined	48.3
+51-75	University of California, Los Angeles	undefined	62.4
+51-75	University of Copenhagen	undefined	58.3
+51-75	University of Genoa	undefined	46.3
+51-75	University of Hamburg	undefined	56.2
+51-75	University of Mainz	undefined	48.7
+51-75	University of Minnesota, Twin Cities	undefined	53.7
+51-75	University of Naples Federico II	undefined	52.0
+51-75	University of Roma - Tor Vergata	undefined	52.3
+51-75	University of Toronto	undefined	60.0
+51-75	University of Waterloo	undefined	42.7
+51-75	University of Wisconsin - Madison	undefined	59.6
+51-75	University of Zurich	undefined	46.9
+51-75	Yale University	undefined	56.2
+76-100	Monash University	undefined	47.5
+76-100	Nanjing University	undefined	73.2
+76-100	Pennsylvania State University - University Park	undefined	56.8
+76-100	RWTH Aachen University	undefined	49.4
+76-100	Scuola Normale Superiore - Pisa	undefined	44.2
+76-100	Stockholm University	undefined	54.3
+76-100	Tel Aviv University	undefined	50.1
+76-100	The University of Melbourne	undefined	49.5
+76-100	University of Amsterdam	undefined	54.9
+76-100	University of Barcelona	undefined	52.6
+76-100	University of Bristol	undefined	47.6
+76-100	University of British Columbia	undefined	51.3
+76-100	University of California, San Diego	undefined	57.3
+76-100	University of Florida	undefined	46.0
+76-100	University of Groningen	undefined	51.2
+76-100	University of Massachusetts Amherst	undefined	46.0
+76-100	University of Perugia	undefined	37.3
+76-100	University of Southampton	undefined	60.7
+76-100	University of Trento	undefined	42.7
+76-100	University of Turin	undefined	46.7
+76-100	University of Valencia	undefined	49.2
+76-100	University of Warsaw	undefined	50.1
+76-100	University of Warwick	undefined	54.6
+76-100	Weizmann Institute of Science	undefined	48.7
+101-150	Autonomous University of Barcelona	undefined	51.8
+101-150	Boston University	undefined	50.9
+101-150	Carnegie Mellon University	undefined	42.4
+101-150	Charles University in Prague	undefined	50.7
+101-150	Duke University	undefined	43.5
+101-150	Eotvos Lorand University	undefined	36.8
+101-150	Georgia Institute of Technology	undefined	51.8
+101-150	Indiana University Bloomington	undefined	41.0
+101-150	Karlsruhe Institute of Technology (KIT)	undefined	56.6
+101-150	King's College London	undefined	42.1
+101-150	KTH Royal Institute of Technology	undefined	56.5
+101-150	Leiden University	undefined	60.8
+101-150	Lund University	undefined	48.4
+101-150	Michigan State University	undefined	46.5
+101-150	Nanyang Technological University	undefined	60.4
+101-150	National and Kapodistrian University of Athens	undefined	42.6
+101-150	National University of Singapore	undefined	58.4
+101-150	Novosibirsk State University	undefined	49.2
+101-150	Purdue University - West Lafayette	undefined	54.8
+101-150	Rice University	undefined	45.4
+101-150	Rutgers, The State University of New Jersey - New Brunswick	undefined	45.1
+101-150	Stony Brook University	undefined	47.3
+101-150	Syracuse University	undefined	28.8
+101-150	Technical University of Munich	undefined	53.1
+101-150	Texas A&M University	undefined	52.6
+101-150	The University of Adelaide	undefined	39.5
+101-150	The University of Sheffield	undefined	45.0
+101-150	TU Dresden	undefined	48.8
+101-150	University College Dublin	undefined	37.5
+101-150	University of Arizona	undefined	62.5
+101-150	University of Bern	undefined	45.2
+101-150	University of California, Davis	undefined	48.8
+101-150	University of California, Riverside	undefined	44.0
+101-150	University of California, Santa Cruz	undefined	52.1
+101-150	University of Clermont Auvergne	undefined	36.8
+101-150	University of Côte d'Azur	undefined	43.9
+101-150	University of Innsbruck	undefined	42.8
+101-150	University of Liverpool	undefined	43.4
+101-150	University of Milan	undefined	44.9
+101-150	University of Milano-Bicocca	undefined	45.0
+101-150	University of Mississippi	undefined	32.2
+101-150	University of Pittsburgh	undefined	44.2
+101-150	University of Rochester	undefined	46.2
+101-150	University of Sao Paulo	undefined	58.3
+101-150	University of Savoy	undefined	33.4
+101-150	University of Sussex	undefined	40.2
+101-150	University of Sydney	undefined	54.1
+101-150	University of Tennessee - Knoxville	undefined	44.9
+101-150	Utrecht University	undefined	33.0
+101-150	Vrije Universiteit Amsterdam	undefined	30.1
+151-200	Beihang University	undefined	56.2
+151-200	Bogazici University	undefined	38.4
+151-200	Cardiff University	undefined	35.7
+151-200	Durham University	undefined	54.1
+151-200	Federal University of Rio de Janeiro	undefined	38.6
+151-200	Florida State University	undefined	42.0
+151-200	Fudan University	undefined	54.5
+151-200	Gran Sasso Science Institute	undefined	28.4
+151-200	Humboldt University of Berlin	undefined	46.4
+151-200	International School for Advanced Studies	undefined	40.4
+151-200	Iowa State University	undefined	41.5
+151-200	Ivane Javakhishvili Tbilisi State University	undefined	35.4
+151-200	Leibniz University Hannover	undefined	32.4
+151-200	Louisiana State University - Baton Rouge	undefined	29.6
+151-200	McGill University	undefined	47.3
+151-200	Moscow Institute of Physics and Technology	undefined	51.8
+151-200	National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)	undefined	49.4
+151-200	National Taiwan University	undefined	52.7
+151-200	National Tsing Hua University	undefined	46.9
+151-200	New York University	undefined	43.6
+151-200	Osaka University	undefined	55.5
+151-200	Polytechnic University of Catalonia	undefined	43.7
+151-200	Queen's University	undefined	20.4
+151-200	Shandong University	undefined	55.8
+151-200	Sun Yat-sen University	undefined	53.9
+151-200	Technical University of Dortmund	undefined	38.2
+151-200	Texas Tech University	undefined	35.4
+151-200	The Hong Kong University of Science and Technology	undefined	44.7
+151-200	Tohoku University	undefined	54.1
+151-200	University of Bari	undefined	36.2
+151-200	University of Basilicata	undefined	33.8
+151-200	University of Cantabria	undefined	33.7
+151-200	University of Ferrara	undefined	32.9
+151-200	University of Goettingen	undefined	42.8
+151-200	University of Helsinki	undefined	44.5
+151-200	University of Iowa	undefined	40.7
+151-200	University of Lisbon	undefined	53.2
+151-200	University of Ljubljana	undefined	38.3
+151-200	University of Notre Dame	undefined	42.4
+151-200	University of Oregon	undefined	31.7
+151-200	University of Oslo	undefined	42.3
+151-200	University of Pavia	undefined	40.6
+151-200	University of Siena	undefined	30.4
+151-200	University of Strasbourg	undefined	47.3
+151-200	University of Trieste	undefined	40.4
+151-200	University of Urbino	undefined	22.6
+151-200	University of Virginia	undefined	46.0
+151-200	University of Wuerzburg	undefined	42.8
+151-200	Vienna University of Technology	undefined	45.4
+151-200	Wayne State University	undefined	35.9
+151-200	Zhejiang University	undefined	60.9
+201-300	Aalto University	undefined	42.6
+201-300	Aarhus University	undefined	40.2
+201-300	AGH University of Science and Technology	undefined	37.0
+201-300	Belarusian State University	undefined	36.4
+201-300	Brandeis University	undefined	29.0
+201-300	Carleton University	undefined	27.6
+201-300	Catholic University of Louvain	undefined	33.1
+201-300	Central China Normal University	undefined	34.4
+201-300	College of William and Mary	undefined	21.2
+201-300	Czech Technical University in Prague	undefined	36.9
+201-300	Georgian Technical University	undefined	29.9
+201-300	Ghent University	undefined	46.5
+201-300	Hanyang University	undefined	42.5
+201-300	Huazhong University of Science and Technology	undefined	63.3
+201-300	Istanbul Aydin University	undefined	30.0
+201-300	Istanbul Bilgi University	undefined	31.9
+201-300	King Abdulaziz University	undefined	40.1
+201-300	Korea University	undefined	48.7
+201-300	Lancaster University	undefined	36.3
+201-300	Louisiana Technical University	undefined	25.2
+201-300	McMaster University	undefined	28.7
+201-300	Nagasaki Institute of Applied Science	undefined	26.8
+201-300	Nankai University	undefined	45.0
+201-300	National Autonomous University of Mexico	undefined	54.0
+201-300	National Central University	undefined	40.1
+201-300	National Technical University of Athens	undefined	39.0
+201-300	Northeastern University (Boston)	undefined	36.1
+201-300	Northern Illinois University	undefined	25.4
+201-300	Oklahoma State University	undefined	29.3
+201-300	Palacký University Olomouc	undefined	31.8
+201-300	Panjab University	undefined	32.8
+201-300	Paul Sabatier University (Toulouse 3)	undefined	46.4
+201-300	Politecnico di Bari	undefined	31.8
+201-300	Pontifical Catholic University of Chile	undefined	45.4
+201-300	Queen Mary University of London	undefined	43.3
+201-300	Roma Tre University	undefined	34.9
+201-300	Royal Holloway, University of London	undefined	28.3
+201-300	Soochow University (China)	undefined	52.7
+201-300	Southern Methodist University	undefined	28.3
+201-300	Sungkyunkwan University	undefined	51.2
+201-300	Swinburne University of Technology	undefined	39.3
+201-300	Technical University of Denmark	undefined	47.7
+201-300	Technion-Israel Institute of Technology	undefined	47.0
+201-300	The University of Alabama - Tuscaloosa	undefined	33.9
+201-300	The University of Auckland	undefined	32.6
+201-300	The University of Hong Kong	undefined	41.0
+201-300	The University of New Mexico - Albuquerque	undefined	37.4
+201-300	The University of Texas at Dallas	undefined	35.2
+201-300	The University of Western Australia	undefined	38.8
+201-300	Tokyo Institute of Technology	undefined	51.1
+201-300	Tufts University	undefined	32.2
+201-300	UNESP	undefined	39.1
+201-300	Universidade Federal do ABC (UFABC)	undefined	31.1
+201-300	University at Buffalo, the State University of New York	undefined	36.3
+201-300	University of Alberta	undefined	42.7
+201-300	University of Antwerp	undefined	35.9
+201-300	University of Belgrade	undefined	43.6
+201-300	University of Bergen	undefined	31.1
+201-300	University of Bochum	undefined	39.5
+201-300	University of Bordeaux	undefined	41.4
+201-300	University of Campinas	undefined	40.2
+201-300	University of Canterbury	undefined	30.3
+201-300	University of Cape Town	undefined	36.7
+201-300	University of Catania	undefined	39.4
+201-300	University of Cincinnati	undefined	29.9
+201-300	University of Cologne	undefined	37.3
+201-300	University of Eastern Piedmont	undefined	32.7
+201-300	University of Erlangen-Nuremberg	undefined	43.4
+201-300	University of Florence	undefined	40.4
+201-300	University of Freiburg	undefined	37.7
+201-300	University of Giessen	undefined	35.3
+201-300	University of Granada	undefined	36.5
+201-300	University of Kansas	undefined	33.9
+201-300	University of La Laguna	undefined	49.4
+201-300	University of Malaya	undefined	39.0
+201-300	University of Montreal	undefined	42.6
+201-300	University of Nebraska - Lincoln	undefined	37.7
+201-300	University of Nottingham	undefined	40.6
+201-300	University of Oviedo	undefined	31.8
+201-300	University of Portsmouth	undefined	31.7
+201-300	University of Rennes 1	undefined	25.5
+201-300	University of Salerno	undefined	26.2
+201-300	University of Santiago Compostela	undefined	30.7
+201-300	University of Siegen	undefined	31.7
+201-300	University of Split	undefined	29.7
+201-300	University of St Andrews	undefined	42.3
+201-300	University of Strathclyde	undefined	34.0
+201-300	University of the Balearic Islands	undefined	22.9
+201-300	University of the Basque Country	undefined	40.3
+201-300	University of the Witwatersrand	undefined	33.3
+201-300	University of Tsukuba	undefined	42.2
+201-300	University of Udine	undefined	28.2
+201-300	University of Victoria	undefined	38.3
+201-300	University of Wisconsin-Milwaukee	undefined	23.7
+201-300	University of Wuppertal	undefined	30.3
+201-300	Vanderbilt University	undefined	37.9
+201-300	Vrije Universiteit Brussel (VUB)	undefined	35.4
+201-300	West Virginia University	undefined	26.1
+201-300	Wuhan University	undefined	45.5
+301-400	Adiyaman University	undefined	24.5
+301-400	Ankara University	undefined	29.2
+301-400	Baylor University	undefined	29.6
+301-400	Benemerita Universidad Autonoma de Puebla	undefined	33.1
+301-400	Brandenburg University of Technology	undefined	26.7
+301-400	British University in Egypt	undefined	23.7
+301-400	Brunel University	undefined	26.9
+301-400	Cag University	undefined	19.3
+301-400	California State University Fresno	undefined	24.2
+301-400	Chalmers University of Technology	undefined	44.2
+301-400	Colorado State University	undefined	21.2
+301-400	Comenius University in Bratislava	undefined	34.2
+301-400	Complutense University of Madrid	undefined	39.9
+301-400	Cukurova University	undefined	25.3
+301-400	Delft University of Technology	undefined	40.5
+301-400	Drexel University	undefined	23.0
+301-400	Ecole Normale Superieure - Lyon	undefined	34.5
+301-400	Florida Institute of Technology	undefined	27.6
+301-400	Florida International University	undefined	29.0
+301-400	Gaziantep University	undefined	23.8
+301-400	Gaziosmanpasa University	undefined	23.1
+301-400	Goethe University Frankfurt	undefined	34.3
+301-400	Guglielmo Marconi University	undefined	24.7
+301-400	Hampton University	undefined	17.5
+301-400	Hiroshima Institute of Technology	undefined	23.9
+301-400	Hunan University	undefined	37.0
+301-400	Ilia State University	undefined	27.4
+301-400	Indian Institute of Science Education & Research (IISER) - Kolkata	undefined	20.8
+301-400	Indian Institute of Science Education & Research (IISER) - Pune	undefined	29.8
+301-400	Indian Institute of Technology Hyderabad	undefined	19.8
+301-400	Indian Institute of Technology Madras	undefined	37.2
+301-400	Izmir Institute of Technology	undefined	26.2
+301-400	Jagiellonian University	undefined	42.1
+301-400	Kafkas University	undefined	24.4
+301-400	Kansas State University	undefined	30.8
+301-400	King Abdullah University of Science and Technology	undefined	37.4
+301-400	KU Leuven	undefined	46.4
+301-400	Kyoto University of Education	undefined	23.6
+301-400	Kyungpook National University	undefined	35.8
+301-400	Lappeenranta University of Technology	undefined	25.8
+301-400	Liverpool John Moores University	undefined	34.8
+301-400	Manhattan College	undefined	24.2
+301-400	Mimar Sinan Guzel Sanatlar University	undefined	24.3
+301-400	Montana State University - Bozeman	undefined	21.0
+301-400	Ohio University	undefined	22.0
+301-400	Okayama University	undefined	29.6
+301-400	Parthenope University Naples	undefined	28.7
+301-400	Peter the Great St. Petersburg Polytechnic University	undefined	38.3
+301-400	Piri Reis University	undefined	23.3
+301-400	Pusan National University	undefined	31.8
+301-400	Quaid-i-Azam University	undefined	31.9
+301-400	Rio de Janeiro State University	undefined	36.4
+301-400	Rochester Institute of Technology	undefined	24.7
+301-400	Simon Fraser University	undefined	30.8
+301-400	Sofia University	undefined	29.4
+301-400	Technical University Darmstadt	undefined	35.4
+301-400	Texas A and M University at Qatar	undefined	28.6
+301-400	The Hebrew University of Jerusalem	undefined	38.6
+301-400	The University of New South Wales	undefined	45.8
+301-400	The University of Texas at Arlington	undefined	30.6
+301-400	TOBB Ekonomi ve Teknoloji University	undefined	24.5
+301-400	Tokyo Metropolitan University	undefined	32.4
+301-400	Universidad Antonio Narino	undefined	24.8
+301-400	Universidad Tecnica Federico Santa Maria	undefined	31.0
+301-400	Universidade Federal de Sao Joao del-Rei	undefined	24.5
+301-400	Universite de Haute Alsace	undefined	27.4
+301-400	Universite Mohammed Premier	undefined	25.5
+301-400	University at Albany (State University of New York)	undefined	27.1
+301-400	University of Basel	undefined	31.5
+301-400	University of Buenos Aires	undefined	36.3
+301-400	University of Cagliari	undefined	32.0
+301-400	University of Calabria	undefined	30.9
+301-400	University of Camerino	undefined	16.6
+301-400	University of Coimbra	undefined	30.6
+301-400	University of Cyprus	undefined	28.0
+301-400	University of Debrecen	undefined	27.3
+301-400	University of Fribourg	undefined	29.1
+301-400	University of Illinois at Chicago	undefined	33.7
+301-400	University of Ioannina	undefined	29.2
+301-400	University of Johannesburg	undefined	29.7
+301-400	University of Los Andes (Colombia)	undefined	28.2
+301-400	University of Louisville	undefined	25.4
+301-400	University of Mons	undefined	27.6
+301-400	University of Montpellier	undefined	35.1
+301-400	University of Muenster	undefined	32.9
+301-400	University of Oklahoma - Norman	undefined	33.9
+301-400	University of Parma	undefined	19.3
+301-400	University of Puerto Rico Mayaguez	undefined	24.6
+301-400	University of Rostock	undefined	26.6
+301-400	University of Salento	undefined	30.9
+301-400	University of South Carolina - Columbia	undefined	28.2
+301-400	University of Szeged	undefined	19.2
+301-400	University of Texas Rio Grande Valley	undefined	15.9
+301-400	University of Tuebingen	undefined	35.2
+301-400	University of Vienna	undefined	40.7
+301-400	Utah Valley University	undefined	21.7
+301-400	Warsaw University of Technology	undefined	37.0
+301-400	Washington State University	undefined	21.1
+301-400	West University of Timisoara	undefined	24.5
+301-400	York University	undefined	31.7
+401-500	Aristotle University of Thessaloniki	undefined	31.8
+401-500	Arizona State University	undefined	40.8
+401-500	Bahcesehir University	undefined	20.5
+401-500	California State University-Sacramento	undefined	18.6
+401-500	Case Western Reserve University	undefined	27.9
+401-500	Chonnam National University	undefined	31.6
+401-500	Chulalongkorn University	undefined	29.4
+401-500	Creighton University	undefined	15.1
+401-500	Eindhoven University of Technology	undefined	37.4
+401-500	Erzincan University	undefined	21.1
+401-500	Fayoum University	undefined	17.3
+401-500	Federal University of Rio Grande do Norte	undefined	23.0
+401-500	Federal University of Rio Grande do Sul	undefined	31.1
+401-500	Free University Berlin	undefined	31.5
+401-500	Hassan II University of Casablanca	undefined	24.6
+401-500	Hiroshima University	undefined	32.4
+401-500	IMT Atlantique	undefined	17.9
+401-500	Indian Institute of Science	undefined	41.2
+401-500	Indian Institute of Technology Bombay	undefined	31.0
+401-500	Indian Institute of Technology Gandhinagar	undefined	17.9
+401-500	International Islamic University Malaysia	undefined	23.5
+401-500	Isfahan University of Technology	undefined	30.2
+401-500	Islamic Azad University	undefined	38.2
+401-500	Istanbul Technical University	undefined	27.9
+401-500	Jilin University	undefined	50.6
+401-500	Kobe University	undefined	32.2
+401-500	Korea Advanced Institute of Science and Technology	undefined	47.7
+401-500	Kyushu University	undefined	40.5
+401-500	Lanzhou University	undefined	38.4
+401-500	Marmara University	undefined	24.9
+401-500	Mersin University	undefined	24.0
+401-500	Middle East Technical University	undefined	30.0
+401-500	Mohammed V University	undefined	26.3
+401-500	National University of La Plata	undefined	38.1
+401-500	New Mexico State University	undefined	23.6
+401-500	North Carolina State University - Raleigh	undefined	35.7
+401-500	NOVA University Lisbon	undefined	28.5
+401-500	Ochanomizu University	undefined	22.2
+401-500	Ozyegin University	undefined	22.1
+401-500	Pohang University of Science and Technology	undefined	40.4
+401-500	Polytechnic University of Milan	undefined	34.3
+401-500	Queen's University Belfast	undefined	36.6
+401-500	Riga Technical University	undefined	21.2
+401-500	Rockefeller University	undefined	19.2
+401-500	Sejong University	undefined	27.5
+401-500	Shanxi University	undefined	37.4
+401-500	Shenzhen University	undefined	43.7
+401-500	Shinshu University	undefined	28.2
+401-500	Southeast University	undefined	42.4
+401-500	Southern University of Science and Technology	undefined	33.9
+401-500	Technical University of Berlin	undefined	34.6
+401-500	Temple University	undefined	22.0
+401-500	The Catholic University of America	undefined	26.9
+401-500	The City College of New York	undefined	23.0
+401-500	The George Washington University	undefined	23.2
+401-500	The Graduate University for Advanced Studies	undefined	33.3
+401-500	The University of Queensland	undefined	33.9
+401-500	Tomsk State University	undefined	37.2
+401-500	Transilvania University of Brasov	undefined	22.3
+401-500	Ulsan National Institute of Science and Technology	undefined	34.7
+401-500	Universidad Autonoma de San Luis Potosi	undefined	26.8
+401-500	Universidade Federal de Juiz de Fora	undefined	26.3
+401-500	Universidade Federal do Triangulo Mineiro	undefined	17.8
+401-500	Universitat Ramon Llull	undefined	18.4
+401-500	University of Alabama in Huntsville	undefined	22.0
+401-500	University of Bath	undefined	26.8
+401-500	University of Bialystok	undefined	13.7
+401-500	University of Chile	undefined	37.4
+401-500	University of Delaware	undefined	30.5
+401-500	University of Delhi	undefined	31.9
+401-500	University of Houston	undefined	29.9
+401-500	University of Jena	undefined	36.5
+401-500	University of Jyvaskyla	undefined	24.4
+401-500	University of Kentucky	undefined	25.7
+401-500	University of KwaZulu-Natal	undefined	25.2
+401-500	University of Leicester	undefined	28.6
+401-500	University of Liege	undefined	30.7
+401-500	University of Marrakech Cadi Ayyad	undefined	25.8
+401-500	University of Minho	undefined	28.7
+401-500	University of Modena and Reggio Emilia	undefined	23.6
+401-500	University of Nantes	undefined	23.2
+401-500	University of North Carolina at Chapel Hill	undefined	31.0
+401-500	University of Porto	undefined	37.5
+401-500	University of Regensburg	undefined	27.2
+401-500	University of Seoul	undefined	28.4
+401-500	University of Southern California	undefined	32.7
+401-500	University of Stuttgart	undefined	35.1
+401-500	University of Ulm	undefined	24.7
+401-500	University of Utah	undefined	33.3
+401-500	University of York	undefined	31.4
+401-500	University of Zagreb	undefined	25.4
+401-500	University of Zielona Gora	undefined	16.4
+401-500	Vilnius University	undefined	33.2
+401-500	Virginia Polytechnic Institute and State University	undefined	33.4
+401-500	Visva Bharati University	undefined	26.7
+401-500	Waseda University	undefined	35.2
+401-500	Washington University in St. Louis	undefined	26.5
+401-500	Xi'an Jiaotong University	undefined	52.8
+401-500	Yonsei University	undefined	44.8
+401-500	Zhengzhou University	undefined	33.4

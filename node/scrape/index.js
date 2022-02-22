@@ -121,6 +121,34 @@ const scrape = async (source, option) => {
     // Only this and the page to go to has to be modified to reuse Script
     await options[option]();
   }
+  // close browser
+  await browser.close();
 };
 
-scrape("https://www.shanghairanking.com/rankings/gras/2021/RS0102", "Q1");
+const cleanDirectory = async () => {
+  // directory path
+  const directory = "out";
+
+  // delete directory recursively
+  fs.readdir(directory, (err, files) => {
+    if (err) console.log(err);
+
+    for (const file of files) {
+      fs.unlink(path.join(directory, file), (err) => {
+        if (err) console.log(err);
+      });
+    }
+  });
+};
+
+(async () => {
+  let ops = ["Q1", "CNCI", "IC", "TOP", "AWARD"];
+  await cleanDirectory();
+
+  for (const op in ops) {
+    scrape(
+      "https://www.shanghairanking.com/rankings/gras/2021/RS0102",
+      ops[op]
+    );
+  }
+})();
