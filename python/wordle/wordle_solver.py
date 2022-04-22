@@ -1,6 +1,6 @@
 correct_word = [0, 0, 0, 0, 0]
 
-with open("words.txt", "r") as f:
+with open("wordle/words.txt", "r") as f:
     words = f.readlines()
     while True:
         i, d = input("pos letter: ").split()

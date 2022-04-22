@@ -1,13 +1,4 @@
-if __name__ == '__main__':
-    students = [[input(), float(input())] for _ in range(int(input()))]
+x_i = [62, 65, 59, 63, 69, 63, 60]
+y_i = [2, 6, 1, 4, 6, 1, 3]
 
-    current_low = min(students, key=lambda x: x[1])
-
-    for student in students[:]:
-        if student[1] == current_low[1]:
-            students.remove(student)
-    students.sort()
-
-    for student in students:
-        if student[1] == min(students, key=lambda x: x[1])[1]:
-            print(student[0])
+print(sum([x * y_i[i] for i, x in enumerate(x_i)]))
